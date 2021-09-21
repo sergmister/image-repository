@@ -34,6 +34,7 @@
     "uuid": "^8.3.2",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "/shopify-developer-intern-challenge/",
   "scripts": {
     "start": "BROWSER=none react-scripts start",
     "build": "react-scripts build",
