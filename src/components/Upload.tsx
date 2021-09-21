@@ -16,7 +16,6 @@ import {
 } from "@mui/material";
 import { v4 } from "uuid";
 import { ImageData } from "src/App";
-import { isNamedExportBindings } from "typescript";
 
 export default function Upload(props: { addImages: (imgs: ImageData[]) => void }) {
   const [open, setOpen] = React.useState(false);
