@@ -1,9 +1,24 @@
-import React from 'react';
-import { render, screen } from '@testing-library/react';
-import App from './App';
+import React from "react";
+import { render, screen } from "@testing-library/react";
+import { act } from "react-dom/test-utils";
 
-test('renders learn react link', () => {
+import App from "src/App";
+
+test("renders learn react link", () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+
+  let imageList = document.querySelector("[data-testid=image-list]");
+  expect(imageList).toBeInTheDocument();
+
+  let settingsMenu = document.querySelector("[data-testid=settings-menu]");
+  expect(settingsMenu).not.toBeInTheDocument();
+
+  let settingsButton = document.querySelector("[data-testid=settings-button]");
+
+  act(() => {
+    settingsButton!.dispatchEvent(new MouseEvent("click", { bubbles: true }));
+  });
+
+  settingsMenu = document.querySelector("[data-testid=settings-menu]");
+  expect(settingsMenu).toBeInTheDocument();
 });
