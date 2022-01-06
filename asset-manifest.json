@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/shopify-developer-intern-challenge/static/css/main.5b8d9036.chunk.css",
-    "main.js": "/shopify-developer-intern-challenge/static/js/main.ccc7e527.chunk.js",
-    "main.js.map": "/shopify-developer-intern-challenge/static/js/main.ccc7e527.chunk.js.map",
-    "runtime-main.js": "/shopify-developer-intern-challenge/static/js/runtime-main.f9ee103a.js",
-    "runtime-main.js.map": "/shopify-developer-intern-challenge/static/js/runtime-main.f9ee103a.js.map",
-    "static/css/2.29388da7.chunk.css": "/shopify-developer-intern-challenge/static/css/2.29388da7.chunk.css",
-    "static/js/2.207e252d.chunk.js": "/shopify-developer-intern-challenge/static/js/2.207e252d.chunk.js",
-    "static/js/2.207e252d.chunk.js.map": "/shopify-developer-intern-challenge/static/js/2.207e252d.chunk.js.map",
-    "static/js/3.91ba1cf1.chunk.js": "/shopify-developer-intern-challenge/static/js/3.91ba1cf1.chunk.js",
-    "static/js/3.91ba1cf1.chunk.js.map": "/shopify-developer-intern-challenge/static/js/3.91ba1cf1.chunk.js.map",
-    "index.html": "/shopify-developer-intern-challenge/index.html",
-    "static/css/2.29388da7.chunk.css.map": "/shopify-developer-intern-challenge/static/css/2.29388da7.chunk.css.map",
-    "static/css/main.5b8d9036.chunk.css.map": "/shopify-developer-intern-challenge/static/css/main.5b8d9036.chunk.css.map",
-    "static/js/2.207e252d.chunk.js.LICENSE.txt": "/shopify-developer-intern-challenge/static/js/2.207e252d.chunk.js.LICENSE.txt",
-    "static/media/300.css": "/shopify-developer-intern-challenge/static/media/roboto-vietnamese-300-normal.af9afdc1.woff2",
-    "static/media/400.css": "/shopify-developer-intern-challenge/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
-    "static/media/500.css": "/shopify-developer-intern-challenge/static/media/roboto-vietnamese-500-normal.b8e494da.woff2",
-    "static/media/700.css": "/shopify-developer-intern-challenge/static/media/roboto-vietnamese-700-normal.3096f18a.woff2"
+    "main.css": "/image-repository/static/css/main.5b8d9036.chunk.css",
+    "main.js": "/image-repository/static/js/main.c6124a77.chunk.js",
+    "main.js.map": "/image-repository/static/js/main.c6124a77.chunk.js.map",
+    "runtime-main.js": "/image-repository/static/js/runtime-main.c011fcd1.js",
+    "runtime-main.js.map": "/image-repository/static/js/runtime-main.c011fcd1.js.map",
+    "static/css/2.767b7de9.chunk.css": "/image-repository/static/css/2.767b7de9.chunk.css",
+    "static/js/2.8b0830b5.chunk.js": "/image-repository/static/js/2.8b0830b5.chunk.js",
+    "static/js/2.8b0830b5.chunk.js.map": "/image-repository/static/js/2.8b0830b5.chunk.js.map",
+    "static/js/3.5a82b8e0.chunk.js": "/image-repository/static/js/3.5a82b8e0.chunk.js",
+    "static/js/3.5a82b8e0.chunk.js.map": "/image-repository/static/js/3.5a82b8e0.chunk.js.map",
+    "index.html": "/image-repository/index.html",
+    "static/css/2.767b7de9.chunk.css.map": "/image-repository/static/css/2.767b7de9.chunk.css.map",
+    "static/css/main.5b8d9036.chunk.css.map": "/image-repository/static/css/main.5b8d9036.chunk.css.map",
+    "static/js/2.8b0830b5.chunk.js.LICENSE.txt": "/image-repository/static/js/2.8b0830b5.chunk.js.LICENSE.txt",
+    "static/media/300.css": "/image-repository/static/media/roboto-vietnamese-300-normal.af9afdc1.woff2",
+    "static/media/400.css": "/image-repository/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/500.css": "/image-repository/static/media/roboto-vietnamese-500-normal.b8e494da.woff2",
+    "static/media/700.css": "/image-repository/static/media/roboto-vietnamese-700-normal.3096f18a.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9ee103a.js",
-    "static/css/2.29388da7.chunk.css",
-    "static/js/2.207e252d.chunk.js",
+    "static/js/runtime-main.c011fcd1.js",
+    "static/css/2.767b7de9.chunk.css",
+    "static/js/2.8b0830b5.chunk.js",
     "static/css/main.5b8d9036.chunk.css",
-    "static/js/main.ccc7e527.chunk.js"
+    "static/js/main.c6124a77.chunk.js"
   ]
 }
