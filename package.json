@@ -1,5 +1,5 @@
 {
-  "name": "shopify-developer-intern-challenge",
+  "name": "image-repository",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,7 +34,7 @@
     "uuid": "^8.3.2",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "/shopify-developer-intern-challenge/",
+  "homepage": "/image-repository/",
   "scripts": {
     "start": "BROWSER=none react-scripts start",
     "build": "react-scripts build",
